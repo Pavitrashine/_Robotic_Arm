@@ -69,8 +69,6 @@ Customize the app using the provided MIT App Inventor project file.
 
 Modify Python code to adjust servo angles, timings, or automate routines.
 
-Contributing
-
 Contributions are welcome! You can:
 
 Submit issues or feature requests
