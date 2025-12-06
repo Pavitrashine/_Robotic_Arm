@@ -69,10 +69,6 @@ Customize the app using the provided MIT App Inventor project file.
 
 Modify Python code to adjust servo angles, timings, or automate routines.
 
-Screenshots / Demo
-
-(Add images or gifs of the robotic arm in action here)
-
 Contributing
 
 Contributions are welcome! You can:
